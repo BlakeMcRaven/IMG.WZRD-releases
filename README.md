@@ -1,12 +1,17 @@
 # IMG.WZRD
 
+![IMG.WZRD: the Compare slider on a street photo, Japanese signs on the left and their English translation on the right](social_preview.jpg)
+
 A fast image viewer and editor for Windows.
 
 - Opens 4K and 8K pictures in about half a second.
 - Quick export: resize, change format and quality, pack channels for game textures.
+  Batch export does a whole folder in one go.
+- Compare two pictures side by side, under a slider, or as their difference.
 - Inspect a file's metadata, read text in it, search your folders for look-alikes.
 - Editor mode with layers, 83 effects and AI-assisted edits through your own AI account.
-- Translate text in a picture, right on the picture.
+- Translate text in a picture, right on the picture, and save the result.
+- Opens Photoshop files, DDS game textures, AVIF and animated GIFs besides the usual formats.
 
 ## Download
 
@@ -21,10 +26,10 @@ settings and data are kept.
 The installer is not code-signed yet, so Windows SmartScreen shows "Windows protected
 your PC". Choose **More info**, then **Run anyway**. You can check the download first:
 each release lists the installer's SHA-256, and this command prints the same value for
-the file you downloaded:
+the file you downloaded (use the name of your file):
 
 ```
-certutil -hashfile IMG.WZRD-Setup-0.9.1.exe SHA256
+certutil -hashfile IMG.WZRD-Setup-0.10.0.exe SHA256
 ```
 
 ## What it sends, and when
