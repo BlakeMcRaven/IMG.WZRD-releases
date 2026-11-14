@@ -1,9 +1,9 @@
 {
-    "version":  "0.9.1",
+    "version":  "0.10.0",
     "date":  "2026-11-14",
-    "notes":  "First public installer. Adds the installer and uninstaller, the About window and the update check.",
-    "page":  "https://github.com/BlakeMcRaven/IMG.WZRD-releases/releases/tag/v0.9.1",
-    "installer":  "IMG.WZRD-Setup-0.9.1.exe",
-    "sha256":  "a65b772066b25385029eea95e1b3f691950459a426e66eb094719465fb8f05ee",
-    "size":  17383576
+    "notes":  "Batch export for whole folders, Compare view, PSD / camera RAW / HEIC / AVIF / animated GIF, saving a translated picture, a shortcut list and a first-run tour.",
+    "page":  "https://github.com/BlakeMcRaven/IMG.WZRD-releases/releases/tag/v0.10.0",
+    "installer":  "IMG.WZRD-Setup-0.10.0.exe",
+    "sha256":  "3c6b9379e51e7c4e33ab3d42baa5dfa7d2765a391472306c3324a7b0b784700f",
+    "size":  17530797
 }
